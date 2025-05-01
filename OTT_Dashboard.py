@@ -4,7 +4,7 @@ import plotly.express as px
 
 # ----------------- LOGIN SETUP -----------------
 USERNAME = "muskan"
-PASSWORD = "muskan123"
+PASSWORD = "Muskan@2025"
 
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
